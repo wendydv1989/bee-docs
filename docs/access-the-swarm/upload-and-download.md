@@ -10,14 +10,18 @@ When you upload your files to the swarm, they are split into 4kb chunks and then
 To upload data to Swarm, you must perform the following steps.
 
 1. Fund your node's wallet with gBZZ.
-2. Purchase a *batch* of stamps and burn your gBZZ.
+2. Purchase a *batch* of stamps with your gBZZ.
 3. Wait for the batch to propogate into the network.
 4. Upload your content, specifying the *batch id* so that Bee can attach stamps to your chunks.
 5. Download your content using your content's hash.
 
 ## Purchasing Your Batch of Stamps
 
-In order to upload your data to swarm, you must agree to burn some of your gBZZ to signify to storer and fowarder nodes that the content is important. Before you progress to the next step, you must buy stamps! See this guide on how to [purchase an appropriate batch of stamps](/docs/access-the-swarm/keep-your-data-alive).
+In order to upload your data to swarm, you must agree to burn (spend)
+some of your gBZZ to signify to storer and fowarder nodes that this
+content is valued. Before you progress to the next step, you must buy
+stamps! See this guide on how to [purchase an appropriate batch of
+stamps](/docs/access-the-swarm/keep-your-data-alive).
 
 ### Upload
 
