@@ -2,6 +2,10 @@
 
 Documentation for the [Swarm Bee Client](https://github.com/ethersphere/bee). View at [docs.ethswarm.org](https://docs.ethswarm.org).
 
+## Contributing
+
+PR's are welcome, but please read our [CODING](CODING.md) guide!
+
 ### Node Version
 
 You must use **node 14** or above. We recommend [nvm](https://github.com/nvm-sh/nvm).
